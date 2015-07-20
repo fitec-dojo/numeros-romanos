@@ -47,6 +47,10 @@ Sugestões
 ---------
 * Tentar "prepared dojo", ou seja, as pessoas levam o exercício pronto e discutem as soluções
 
+Implementações
+--------------
+* https://github.com/Paulissta/numeros-romanos
+
 **Referências**: 
 * http://dojopuzzles.com/problemas/exibe/numeros-romanos/
 * http://apoie.org/Dojo.html
